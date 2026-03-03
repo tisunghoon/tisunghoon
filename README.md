@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   </p>
   
-  <h3>Other</h3>
+  <h3>Others</h3>
   <p>
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
@@ -36,9 +36,15 @@
     <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
     <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   </p>
-  
-  <hr>
 
+  <h3>Design</h3>
+  <p>
+    <img src="https://img.shields.io/badge/figma-2496ED?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/ps-2496ED?style=for-the-badge&logo=ps&logoColor=white">
+    <img src="https://img.shields.io/badge/ai-2496ED?style=for-the-badge&logo=ai&logoColor=white">
+  </p>
+
+  <hr>
 
 <div>
   
