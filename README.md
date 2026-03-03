@@ -63,6 +63,6 @@
 <br>
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tisunghoon?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false" width="45%" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tisunghoon?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false" width="40%" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=vue-dark" width="48%" />
 </p>
