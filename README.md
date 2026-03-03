@@ -39,9 +39,9 @@
 
   <h3>Design</h3>
   <p>
-    <img src="https://img.shields.io/badge/figma-2496ED?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/photoshop-2496ED?style=for-the-badge&logo=photoshop&logoColor=white">
-    <img src="https://img.shields.io/badge/ai-2496ED?style=for-the-badge&logo=ai&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
   </p>
 
   <hr>
