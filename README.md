@@ -50,9 +50,9 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a0901shc)](https://solved.ac/a0901shc)
 
-![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YOUR_GITHUB_USERNAME?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false)
+![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tisunghoon?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=YOUR_GITHUB_USERNAME&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=vue-dark)](https://git.io/streak-stats)
 
 
 
