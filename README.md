@@ -53,16 +53,3 @@
 ![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tisunghoon?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=vue-dark)](https://git.io/streak-stats)
-
-
-
-<p align="center">
-  <img src="https://mazandi.herokuapp.com/api?handle=a0901shc&theme=light" width="400" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tisunghoon&show_icons=true&theme=light" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tishunhoon&theme=light" width="48%" />
-</p>
