@@ -3,13 +3,11 @@
 [![Sunghoon's Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://instagram.com/YOUR_INSTAGRAM)
 [![Sunghoon's LinkedIN](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-# Hi 👋 This is Sunghoon Jo, a backend developer who builds the future.
-
-### I am working with the mission of creating reliable systems that make people's lives better!
+# Hi 👋 This is Sunghoon Cho, a backend developer
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://YOUR_PORTFOLIO_URL)
 - 💬 Ask me about **Java, Spring Boot and Backend Architecture**
-- 📫 How to reach me **your-email@gmail.com**
+- 📫 How to reach me **a01028357183@gmail.com**
 
 ![sunghoon](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
 
