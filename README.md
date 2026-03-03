@@ -40,7 +40,7 @@
   <h3>Design</h3>
   <p>
     <img src="https://img.shields.io/badge/figma-2496ED?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/ps-2496ED?style=for-the-badge&logo=ps&logoColor=white">
+    <img src="https://img.shields.io/badge/photoshop-2496ED?style=for-the-badge&logo=photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/ai-2496ED?style=for-the-badge&logo=ai&logoColor=white">
   </p>
 
