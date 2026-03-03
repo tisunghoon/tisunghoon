@@ -2,8 +2,6 @@
 
 [![Sunghoon's Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://instagram.com/YOUR_INSTAGRAM)
 [![Sunghoon's LinkedIN](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Sunghoon's Blog](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg)](https://YOUR_BLOG_URL)
-&nbsp;
 
 # Hi 👋 This is Sunghoon Jo, a backend developer who builds the future.
 
