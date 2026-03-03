@@ -37,7 +37,10 @@
 <div>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a0901shc)](https://solved.ac/a0901shc)
-<img src="https://github-readme-stats-fast.vercel.app/api?username=tisunghoon2&show_icons=true">
+
+![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YOUR_GITHUB_USERNAME?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=YOUR_GITHUB_USERNAME&theme=vue-dark)](https://git.io/streak-stats)
 
 
 
@@ -80,8 +83,4 @@
 
 &nbsp;
 
-![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YOUR_GITHUB_USERNAME?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=YOUR_GITHUB_USERNAME&theme=vue-dark)](https://git.io/streak-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/YOUR_BOJ_ID)
