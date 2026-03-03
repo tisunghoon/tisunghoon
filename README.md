@@ -50,5 +50,5 @@
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=a0901shc" width="350" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=vue-dark" width="50%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=light" width="50%" />
 </p>
