@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Welcome&fontSize=50" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Welcome&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer&text=Welcome&fontSize=50" />
