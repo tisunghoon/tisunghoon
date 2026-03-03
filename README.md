@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:38FAD4,100:02AAB0&text=Welcome)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto,100:02AAB0&text=Welcome)
 - Interested in backend.
 - Email: ymkim2353@gmail.com
 - Blog: https://hwanheee.tistory.com
