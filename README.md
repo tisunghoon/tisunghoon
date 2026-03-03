@@ -54,15 +54,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=vue-dark)](https://git.io/streak-stats)
 
-<p align="center">
-  <a href="https://solved.ac/a0901shc">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=a0901shc" width="350" />
-  </a>
-</p>
-
-<br>
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tisunghoon?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false" width="40%" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=a0901shc" width="350" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=vue-dark" width="48%" />
 </p>
