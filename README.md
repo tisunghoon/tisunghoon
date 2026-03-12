@@ -49,6 +49,6 @@
 <div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tisunghoon&show_icons=true&theme=light" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?user=tisunghoon&theme=light" width="350" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=light" width="350" />
 </p>
