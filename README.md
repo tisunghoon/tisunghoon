@@ -49,5 +49,6 @@
 <div>
 
 <p align="center">
+  ![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tisunghoon?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false)
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=light" width="350" />
 </p>
