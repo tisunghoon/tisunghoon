@@ -50,7 +50,7 @@
 
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tisunghoon?cardType=github&theme=js-masters&fontFamily=Arial&preferLogin=false" width="48%" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tisunghoon?cardType=github&theme=default&fontFamily=Arial&preferLogin=false" width="48%" />
   
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=light" width="48%" />
