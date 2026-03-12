@@ -49,7 +49,6 @@
 <div>
 
 <p align="center">
-  [![dasom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=a0901shc" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tisunghoon&show_icons=true&theme=light" width="350" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=tisunghoon&theme=light" width="350" />
 </p>
