@@ -5,7 +5,6 @@
 
 # Hi 👋 This is Sunghoon Cho, a backend developer
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://YOUR_PORTFOLIO_URL)
 - 💬 Ask me about **Java, Spring Boot and Backend Architecture**
 - 📫 How to reach me **a01028357183@gmail.com**
 
